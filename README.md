@@ -4,7 +4,7 @@
 
 **`Data Analyst & Science`**
 
-Me chamo Lucas Couto Carvalho, tenho 19 anos e moro no estado de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fundação Santo André. Sou apaixonado por tecnologia e compartilho meu conhecimento e trajetória por meio do meu Linkeidn [Lucas Couto](www.linkedin.com/in/lucascouto-tech).   
+Me chamo Lucas Couto Carvalho, tenho 19 anos e moro no estado de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fundação Santo André. Sou apaixonado por tecnologia e compartilho meu conhecimento e trajetória por meio do meu Linkedin [Lucas Couto](https://www.linkedin.com/in/lucascouto-tech/).   
 
 
 ### Linguagens e Tecnologias
